@@ -1,4 +1,6 @@
-//import java.util.*;
+package array;
+
+import java.util.*;
 
 public class trappedWater {
     public static int trapped_Water(int height[]) {

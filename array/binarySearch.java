@@ -1,5 +1,5 @@
 package array;
-import java.util.Scanner;
+import java.util.*;
 
 public class binarySearch {
     public static int binary_Search(int number[], int key) {
